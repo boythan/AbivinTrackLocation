@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AbivinTrackLocation</string>
+    <string name="appTracking">Abivin Tracking</string>
+    <string name="appBundle">vapp.abivinh.com</string>
+</resources>
